@@ -2,6 +2,8 @@
 
 The [six-stage model](https://github.com/VictorOsondu/ai-adoption-model) was built for exactly this reader: the individual professional who has the tools, has had the training, has even had the moment where AI genuinely surprised them — and still hasn't taken the next step. If that's you, this is the playbook where the model's central claim matters most.
 
+Last reviewed: 2026-07-24. See [sources and verification notes](../sources.md).
+
 | Stage | For an individual professional it looks like… | What moves it |
 |-------|-----------------------------------------------|---------------|
 | **Nomad** | "This isn't for my role / my seniority / my kind of work." | A win inside your actual job, not a generic demo. |
@@ -13,9 +15,9 @@ The [six-stage model](https://github.com/VictorOsondu/ai-adoption-model) was bui
 
 ## The gap that's probably holding you
 
-The model's core finding: the biggest barrier isn't between beginner and expert. It's the **Integrator → Architect** jump — from using AI well for yourself to building something with it for others. And that gap has almost nothing to do with skill.
+The model's core finding: for many capable professionals, the biggest barrier is not simply beginner vs expert. It is the **Integrator → Architect** jump — from using AI well for yourself to building something with it for others. That gap is partly skill, but also permission, judgement, context, and confidence.
 
-It's a **self-permission gap** — the distance between what you know and who you believe does this kind of thing. Most professionals who stall here have quietly concluded that "the person who builds things" is someone else: more technical, more senior, more the type. That conclusion is almost always wrong, and it's the thing to work on — not another course.
+It's a **self-permission gap** — the distance between what you know and who you believe does this kind of thing. Many professionals who stall here have quietly concluded that "the person who builds things" is someone else: more technical, more senior, more the type. That conclusion is often wrong, and it is worth testing with a small, safe build.
 
 What actually moves it (none of it a curriculum):
 
@@ -27,7 +29,17 @@ What actually moves it (none of it a curriculum):
 
 - **Improve** — the recurring work you already do: reports, emails, analysis prep, meeting notes, first drafts, research. Start here; it's the fastest, lowest-risk return.
 - **Create** — things your role could use but nobody's built: a template, a checklist, a small tool, a better way to onboard the next person.
-- **Educate** — the literacy that makes you dangerous-in-a-good-way: knowing what AI gets wrong, protecting confidential data, and knowing when *not* to use it.
+- **Educate** — the literacy that makes you useful and safe: knowing what AI gets wrong, protecting confidential data, and knowing when *not* to use it.
+
+## The Protect Layer
+
+Every Improve/Create/Educate step needs a Protect check:
+
+- **Confidentiality:** what data leaves your control?
+- **Verification:** what facts, numbers, citations, sources, or assumptions need tracing?
+- **Accountability:** who owns the decision or output?
+- **Authority:** could the output make a promise, price, exception, eligibility decision, or professional recommendation?
+- **Disclosure:** who needs to know AI was used?
 
 ## Your role, specifically
 

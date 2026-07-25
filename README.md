@@ -7,7 +7,9 @@
 
 A playbook for the individual professional — the one who has the tools, has done the training, and still hasn't quite stepped forward. If you've ever thought *"I know enough — I'm just not sure I'm the one who does this,"* this was written for you.
 
-Most advice aimed at you assumes the barrier is skill. It usually isn't. This playbook is built on a model that names the real barrier — and tells you what actually moves it.
+Most advice aimed at you assumes the barrier is only skill. For a lot of capable professionals it isn't. The next barrier is permission, plus the judgement to use AI without breaking trust. This playbook names that gap and gives you the guardrails to move through it.
+
+Last reviewed: 2026-07-24. See [sources and verification notes](sources.md).
 
 ## Contents
 
@@ -16,7 +18,10 @@ Most advice aimed at you assumes the barrier is skill. It usually isn't. This pl
 - [The six stages](#the-six-stages)
 - [Start here](#start-here)
 - [Your role, specifically](#your-role-specifically)
+- [The professional guardrails](#the-professional-guardrails)
+- [Templates](#templates)
 - [Where this came from](#where-this-came-from)
+- [Scope](#scope)
 - [Free vs done-with-you](#free-vs-done-with-you)
 - [Part of a series](#part-of-a-series)
 
@@ -28,7 +33,7 @@ Most advice aimed at you assumes the barrier is skill. It usually isn't. This pl
 
 ## The gap that's probably holding you
 
-The biggest barrier to going further isn't between beginner and expert. It's the jump from **using AI well for yourself** to **building something with it for others** — and it has almost nothing to do with skill. It's a self-permission gap: the distance between what you know and who you believe does this kind of thing.
+The biggest barrier to going further often isn't between beginner and expert. It's the jump from **using AI well for yourself** to **building something with it for others**. That jump is partly skill, but it is also a self-permission gap: the distance between what you know and who you believe does this kind of thing.
 
 That's good news, because it means the fix isn't another course. It's permission, proximity to a peer one stage ahead, and the right question at the right moment. The [framework](framework/six-stages-for-professionals.md) explains exactly what moves it.
 
@@ -50,9 +55,33 @@ The **Architect** stage — capable, able to see what you'd build, not yet commi
 
 The [role paths](templates/role-paths.md) give a quick-start Improve/Create cut for marketers, managers, ops, customer-facing, HR, analysts, and educators — with the safe first step and the shared ABC guardrail for each.
 
+## The professional guardrails
+
+Professional AI use has five non-negotiables:
+
+1. **Confidentiality:** do not put client, employer, employee, personal, legal, financial, health, credentials, or regulated data into public tools.
+2. **Verification:** trace every number, citation, source, quote, legal point, financial assumption, formula, and factual claim before it ships.
+3. **Accountability:** AI can draft, compare, and suggest; a human remains responsible for decisions, advice, and output.
+4. **Authority limits:** AI must not make prices, promises, policy exceptions, commitments, eligibility decisions, hiring decisions, or professional advice without the right human process.
+5. **Disclosure:** disclose AI use where your employer, client, professional body, publisher, regulator, or assessment process requires it.
+
+## Templates
+
+- [Role paths](templates/role-paths.md)
+- [Professional AI-use checklist](templates/professional-ai-use-checklist.md)
+- [Client-data redaction guide](templates/client-data-redaction-guide.md)
+- [Client-facing output review](templates/client-facing-output-review.md)
+- [Source-verification checklist](templates/source-verification-checklist.md)
+- [User-to-builder mini-guide](templates/user-to-builder-mini-guide.md)
+- [Personal AI development plan](templates/personal-ai-development-plan.md)
+
 ## Where this came from
 
-This playbook is the individual-professional application of AI Tutorium's [six-stage adoption model](https://github.com/VictorOsondu/ai-adoption-model) and safe-use training — the same material used in organisational programmes, turned toward one person's career. `practitioner-built`.
+This playbook is the individual-professional application of AI Tutorium's [six-stage adoption model](https://github.com/VictorOsondu/ai-adoption-model) and safe-use training — the same material used in organisational programmes, turned toward one person's career. `practitioner-built`. External risk anchors and related internal repos are listed in [sources.md](sources.md).
+
+## Scope
+
+This is professional-development guidance, not legal, financial, HR, clinical, regulatory, data-protection, or professional-body advice. Align AI use with your employer policy, client contract, tool terms, data classification, professional duties, and sector rules.
 
 ## Free vs done-with-you
 
