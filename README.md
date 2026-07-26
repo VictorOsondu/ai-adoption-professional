@@ -24,6 +24,7 @@ Last reviewed: 2026-07-24. See [sources and verification notes](sources.md).
 - [Scope](#scope)
 - [Free vs done-with-you](#free-vs-done-with-you)
 - [Part of a series](#part-of-a-series)
+- [Attribution & reuse](#attribution--reuse)
 
 ## Who this is for
 
@@ -90,6 +91,16 @@ The playbook and role paths are free to use and adapt under CC BY 4.0. Coaching,
 ## Part of a series
 
 One of the audience playbooks in the **AI Adoption Playbooks** series. Index, model, and toolkit: [ai-adoption-playbooks](https://github.com/VictorOsondu/ai-adoption-playbooks).
+
+## Attribution & reuse
+
+This playbook builds on two of Victor Osondu's frameworks: **The Six Stages of AI Adoption** (the identity-based adoption model) and the **ICE Method** — Improve, Create, Educate. The canonical, maintained source is the [ai-adoption-model](https://github.com/VictorOsondu/ai-adoption-model) repo; this repo links to it rather than copying it.
+
+Everything here is licensed under **CC BY 4.0**. You're free to share it, adapt it, and use it commercially. The one condition is that you credit the source. If you reuse or build on this material, keep a line like:
+
+> Based on The Six Stages of AI Adoption and the ICE Method by Victor Osondu / AI Tutorium — https://aitutorium.com
+
+To cite the framework formally (including the archived DOI), see [How to cite](https://github.com/VictorOsondu/ai-adoption-model#how-to-cite).
 
 ---
 
